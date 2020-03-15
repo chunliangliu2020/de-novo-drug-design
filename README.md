@@ -29,7 +29,7 @@ Supporting code for the paper Â«Generative molecular design in low data regimesÂ
 First, you need to clone the repo:
 
 ```
-git clone git@github.com:michael1788/virtual_libraries.git
+git clone https://github.com/ETHmodlab/virtual_libraries
 ```
 Then, you can run the following command which will create a conda virtual environement and install all the needed packages (if you don't have conda, you can fist install it by following the instructions here: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html):   
 
